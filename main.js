@@ -1,1 +1,1 @@
-require('./app/components/everlive/src/everlive');
+require('script!./app/components/everlive/src/everlive.all.js');
